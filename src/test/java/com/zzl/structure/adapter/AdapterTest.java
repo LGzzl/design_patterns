@@ -1,5 +1,7 @@
 package com.zzl.structure.adapter;
 
+import java.io.Serializable;
+
 public class AdapterTest {
 
     public static void main(String[] args) {
