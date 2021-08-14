@@ -24,5 +24,15 @@ public class CompositeTest {
         menu.add(menu2);
         //打印
         menu.display(1);
+        /*
+        -name:某管理系统菜单- ico:红色三角形- url:null
+        --name:系统管理- ico:绿色圆形- url:null
+        ---name:登录设置- ico:黑色五角星- url:/system/login
+        ---name:主题设置- ico:蓝色五角星- url:/system/theme
+        --name:用户管理- ico:黄色圆形- url:null
+        ---name:用户列表- ico:蓝色六边形- url:/user/list
+        ---name:用户角色- ico:黄色六边形- url:/user/role
+        ---name:用户权限- ico:紫色六边形- url:/user/permission
+        */
     }
 }
