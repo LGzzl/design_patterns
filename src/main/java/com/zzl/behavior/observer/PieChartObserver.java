@@ -1,6 +1,7 @@
 package com.zzl.behavior.observer;
 
 /**
+ * 饼图观察者
  * @author zzl
  * @since 2021/10/14
  */
